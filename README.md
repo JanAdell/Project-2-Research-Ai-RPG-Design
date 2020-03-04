@@ -27,6 +27,7 @@ RPGs have been defining the videogame industry from it's very core since the ver
 AI in videogames comes in many different forms. While it can certainly be programmed as to act purely as human-like as possible, AI is a tool for developers to make the player and the world interact in a more immersive manner, making it versatile when it comes to possible paths to take when implementing it. 
 
 ### **Revisar Parlar d'adaptativa i no adaptativa
+### **traits (personality), bugs, tasks (npc does X thing at X time in the hub)
 
 ## Enemy AI
 
