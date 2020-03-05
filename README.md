@@ -168,3 +168,9 @@ In turn based RPG games we have mainly neutral NPCs or enemy ones.
 > [GDC: Tales from the Trenches: AI Disaster Stories](https://www.youtube.com/watch?v=__5whYgSTV0)
 
 > [GDC: AI Wish List: What Do Designers Want out of AI?](https://www.youtube.com/watch?v=fSjlHvdq7SM)
+
+### Project Website Link
+
+If you're reading this document from outside the dedicated Github website, the following link will grant you access to it.
+
+> [AI in RPG games Design](https://janadell.github.io/Project-2-Research-Ai-RPG-Design/#intr)
