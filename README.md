@@ -62,20 +62,29 @@ Our main concern when designing AI is that the AI we designed is not correctly f
 
 ## Enemy AI
 
+Enemy AI or enemy NPCs are probably were we will find the most freedom when it comes to designing, since many things can be expressed depending on how it is done.
+
+
 ### **parlar del balancing i com fem que sigui com la volem, mes o menys dificil, com es prediu, patrons, etc.
 
 ## Allied AI
 
-Allied AI
+Allied AI is what designers usually use to support the player through their playthorughs. Usually used in ARPG style games, it's centered around NPCs serving as stress relief for the player, something the enemies can focus for a while.
+
+Allied AI is fundamentally designed to be underpowered, so as not to overshadow the player, and also quite sturdy, so it can take a good beating when being focused. 
 
 ### **parlar del balancing (mes underpowered que op) i del que els devs volen a partir d'implementar IA en entitats aliades
 
 ## AI which doesn't partake in the action
 
+All the NPCs we see in cities, towns and gathering hubs in our RPG games, walking around, doing their own thing, talking, are also entites controlled by AI.
+
+
 ### **rutes en ciutats, interaccions, etc etc.
 
 # AI and the player
 
+We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life.
 ### **interaccio que busca el dev entre el jugador i la IA, i com vol que aquesta sigui tractada
 
 # AI as a Game Feature
@@ -86,11 +95,21 @@ Allied AI
 
 Now that we've clearly defined all the pillars, our point of convergence is, how is -and should be- AI designed when handling an RPG game?
 
+* **Progression**
 
+* **Power and difficulty**
+
+* **Delay and patterns**
+
+* **Reaction time**
 
 ## Turn based RPGs: CRPGs, SRPGs and JRPGs
 
+In turn based RPG games we have mainly neutral NPCs or enemy ones. 
+
 ## ARPG
+
+
 
 ## What we want from the AI: Designing our goals
 
