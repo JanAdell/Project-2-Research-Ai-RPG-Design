@@ -215,8 +215,12 @@ So as long as we keep pushing games with RPG elements, creating games with heavy
 
 > [GDC: AI Wish List: What Do Designers Want out of AI?](https://www.youtube.com/watch?v=fSjlHvdq7SM)
 
+> [GDC: Behavior is Brittle: Testing Game AI](https://www.youtube.com/watch?v=RO2CKsl2OmI)
+
+> [Can You Beat Skyrim as a Level 1?](https://www.youtube.com/watch?v=KAmdYAvCQzA)
+
 ### Project Website Link
 
 If you're reading this document from outside the dedicated Github website, the following link will grant you access to it.
 
-> [AI in RPG games Design](https://janadell.github.io/Project-2-Research-Ai-RPG-Design/#intr)
+> [AI in RPG games Design](https://janadell.github.io/Project-2-Research-Ai-RPG-Design/)
