@@ -6,13 +6,21 @@ In this research document I'll be taking a dive into the design of AI in RPG gam
 
 This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
+# Summary
+
+[Introduction](Introduction)
+[RPG Games](RPG Games)
+[AI Design](AI Design)
+[AI as a Game Fature](AI as a Game Fature)
+[AI and the Player](AI and the Player)
+[AI in RPG Games](AI in RPG Games)
+[Thoughts and Concluding Statement](Thoughts and Concluding Statement)
+
 # Introduction
 
 AI is, in general, an element used in videogames in order for game entities to accomplish functions in a more human-like manner. NPC's actions, being allied, enemy or neutral, are all controlled by AI. 
 
 However, as we will see in this document, AI is an element not only used to give a sense of realism to entities and characters in our RPG games, but a game feature which, when used properly, can be useful to enhance the experience in certain manners game developers see fit.
-
-### **Millorar
 
 # RPG Games
 
@@ -22,8 +30,8 @@ RPGs have been defining the videogame industry from it's very core since the ver
 
 AI in RPGs is an important factor due to one main reason (which doesn' always apply): The amount of NPCs we find in them. From regular NPCs we find at towns or taberns, to allies or enemies in battle, all of their actions are controlled by AI created by the developers.
 
-Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. **MILLORAR**
-### **Millorar parlar de generes i de com afecta cadascun al que mirem
+Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. 
+
 
 # AI Design
 
@@ -55,17 +63,22 @@ Even though we have the technology to allow the AI to learn, this method will, m
 
 ### Concerns within AI Designing
 
-Our main concern when designing AI is that the AI we designed is not correctly fullfilling it's role. For example, if we have an enemy NPC which is designed to be fairly easy, but a majority of players are deeming it a hard, our AI is not working as intended. There are also problems related to the code defining the AI.
+Our main concern when designing AI is that the AI we designed is not correctly fullfilling it's role. For example, if we have an enemy NPC which is designed to be fairly easy, but a majority of players are deeming it a hard, our AI is not working as intended. There are also problems related to the code defining the AI, mainly when relating to pathing, but those are normally outside design capabilities.
 
-### **Revisar Parlar d'adaptativa i no adaptativa
-### **traits (personality), bugs, tasks (npc does X thing at X time in the hub)
 
 ## Enemy AI
 
-Enemy AI or enemy NPCs are probably were we will find the most freedom when it comes to designing, since many things can be expressed depending on how it is done.
+Enemy AI or enemy NPCs are probably were we will find the most freedom when it comes to designing, since many things can be expressed depending on how it is done. 
 
+First and foremost, designing and balancing en enemy in an RPG is subjective, since there can be many factors that define said balancing process. When designing any kind of enemy in general, several key points can be made to use as guidelines during the process.
 
-### **parlar del balancing i com fem que sigui com la volem, mes o menys dificil, com es prediu, patrons, etc.
+* **The mood**:
+
+* **The difficulty**:
+
+* **The behaviours**: 
+
+* **The purpose**:
 
 ## Allied AI
 
@@ -73,27 +86,33 @@ Allied AI is what designers usually use to support the player through their play
 
 Allied AI is fundamentally designed to be underpowered, so as not to overshadow the player, and also quite sturdy, so it can take a good beating when being focused. 
 
-### **parlar del balancing (mes underpowered que op) i del que els devs volen a partir d'implementar IA en entitats aliades
+Allied AI can be useful in many aspects:
+
+* **Company in solace**:
+
+* **Auxiliar teammate**:
+
+* **A good companion**:
 
 ## AI which doesn't partake in the action
 
 All the NPCs we see in cities, towns and gathering hubs in our RPG games, walking around, doing their own thing, talking, are also entites controlled by AI.
 
 
-### **rutes en ciutats, interaccions, etc etc.
-
 # AI and the player
 
 We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life.
+
+
 ### **interaccio que busca el dev entre el jugador i la IA, i com vol que aquesta sigui tractada
 
 # AI as a Game Feature
 
-
+AI must be treated, first and foremost, as a feature devised to connect the player and the game world in a more immersive manner. Secondly, we must consider 
 
 # AI in RPG Games
 
-Now that we've clearly defined all the pillars, our point of convergence is, how is -and should be- AI designed when handling an RPG game?
+Now that we've clearly defined all the pillars, our main focus is, how is -and how should be- AI designed when handling an RPG game?
 
 * **Progression**
 
@@ -115,7 +134,7 @@ In turn based RPG games we have mainly neutral NPCs or enemy ones.
 
 ### **consideracions a fer quan dissenyem algoritmes de behaviour de la IA
 
-# Summary and Conclusions
+# Thoughts and Concluding Statement
 
 
 
