@@ -123,6 +123,8 @@ A good example of such an NPC is Princess Zelda from the **Zelda** franchise.
 
 All the NPCs we see in cities, towns and gathering hubs in our RPG games, walking around, doing their own thing, talking, are also entites controlled by AI.
 
+# millorar
+
 <a name="aiplay"></a>
 # AI and the player
 
