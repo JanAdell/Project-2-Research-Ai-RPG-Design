@@ -8,26 +8,30 @@ This content is generated for the second year’s subject Project 2, under super
 
 # Summary
 
-[Introduction](Introduction)
+[Introduction](#intr)
 
-[RPG Games](RPG Games)
+[RPG Games](#rpg)
 
-[AI Design](AI Design)
+[AI Design](#aides)
 
-[AI as a Game Fature](AI as a Game Fature)
+[AI as a Game Fature](#aifeat)
 
-[AI and the Player](AI and the Player)
+[AI and the Player](#aiplay)
 
-[AI in RPG Games](AI in RPG Games)
+[AI in RPG Games](#airpg)
 
-[Thoughts and Concluding Statement](Thoughts and Concluding Statement)
+[Thoughts and Concluding Statement](#resum)
 
+[Sources](#sources)
+
+<a name="intr"></a>
 # Introduction
 
 AI is, in general, an element used in videogames in order for game entities to accomplish functions in a more human-like manner. NPC's actions, being allied, enemy or neutral, are all controlled by AI. 
 
 However, as we will see in this document, AI is an element not only used to give a sense of realism to entities and characters in our RPG games, but a game feature which, when used properly, can be useful to enhance the experience in certain manners game developers see fit.
 
+<a name="rpg"></a>
 # RPG Games
 
 Role Playing Games (RPG in short) are a genre of videogame based on having the player participate in a story, in which they progress, grow and become more powerful as time goes on and they advance further into the narrative. 
@@ -38,7 +42,7 @@ AI in RPGs is an important factor due to one main reason (which doesn' always ap
 
 Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. 
 
-
+<a name="aides"></a>
 # AI Design
 
 AI Design is used, in general, to try and boost the immersive capabilities of a game in order to bring the player to feel or live the narrative and universe in a more geniune manner. This is attempted to do by making responsive AI which brings life to the game, and gives it a more organic feeling. NPCs in cities talking and reacting as the player passes by, enemies with multiple patterns or unpredicability and companions which support the player through the game are all ways in which AI can help accomplish this previous mentioned organic feeling.
@@ -104,7 +108,7 @@ Allied AI can be useful in many aspects:
 
 All the NPCs we see in cities, towns and gathering hubs in our RPG games, walking around, doing their own thing, talking, are also entites controlled by AI.
 
-
+<a name="aiplay"></a>
 # AI and the player
 
 We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life.
@@ -112,10 +116,12 @@ We, as designers and developers, want the player to end up seeing NPCs (as much 
 
 ### **interaccio que busca el dev entre el jugador i la IA, i com vol que aquesta sigui tractada
 
+<a name="aifeat"></a>
 # AI as a Game Feature
 
 AI must be treated, first and foremost, as a feature devised to connect the player and the game world in a more immersive manner. Secondly, we must consider 
 
+<a name="airpg"></a>
 # AI in RPG Games
 
 Now that we've clearly defined all the pillars, our main focus is, how is -and how should be- AI designed when handling an RPG game?
@@ -140,10 +146,11 @@ In turn based RPG games we have mainly neutral NPCs or enemy ones.
 
 ### **consideracions a fer quan dissenyem algoritmes de behaviour de la IA
 
+<a name="resum"></a>
 # Thoughts and Concluding Statement
 
 
-
+<a name="sources"></a>
 # Sources
 
 ## Websites
