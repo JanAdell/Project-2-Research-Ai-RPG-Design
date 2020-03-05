@@ -38,7 +38,7 @@ Role Playing Games (RPG in short) are a genre of videogame based on having the p
 
 RPGs have been defining the videogame industry from it's very core since the very beggining, serving as examples for many other genres on how to apply certain features and mechanics, mainly progression and character growth. It's important to keep that in mind as we speak of AI, since, as the player grows, we need the environment around him to do as well. 
 
-AI in RPGs is an important factor due to one main reason (which doesn' always apply): The amount of NPCs we find in them. From regular NPCs we find at towns or taberns, to allies or enemies in battle, all of their actions are controlled by AI created by the developers.
+AI in RPGs is an important factor due to one main reason (which doesn't always apply): The amount of NPCs we find in them. From regular NPCs we find at towns or taberns, to allies or enemies in battle, all of their actions are controlled by AI created by the developers.
 
 Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. 
 
@@ -75,7 +75,6 @@ Even though we have the technology to allow the AI to learn, this method will, m
 
 Our main concern when designing AI is that the AI we designed is not correctly fullfilling it's role. For example, if we have an enemy NPC which is designed to be fairly easy, but a majority of players are deeming it a hard, our AI is not working as intended. There are also problems related to the code defining the AI, mainly when relating to pathing, but those are normally outside design capabilities.
 
-
 ## Enemy AI
 
 Enemy AI or enemy NPCs are probably were we will find the most freedom when it comes to designing, since many things can be expressed depending on how it is done. 
@@ -92,7 +91,7 @@ First and foremost, designing and balancing en enemy in an RPG is subjective, si
 
 ## Allied AI
 
-Allied AI is what designers usually use to support the player through their playthorughs. Usually used in ARPG style games, it's centered around NPCs serving as stress relief for the player, something the enemies can focus for a while.
+Allied AI is what designers usually use to support the player through their playthrorughs. Usually used in ARPG style games, it's centered around NPCs serving as stress relief for the player, something the enemies can focus for a while.
 
 Allied AI is fundamentally designed to be underpowered, so as not to overshadow the player, and also quite sturdy, so it can take a good beating when being focused. 
 
