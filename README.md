@@ -119,9 +119,6 @@ Claptrap -mentioned before- or Atreus from **God of War 4** could be good exampl
 
 A good example of such an NPC is Princess Zelda from the **Zelda** franchise. 
 
-## AI which doesn't partake in the action
-
-All the NPCs we see in cities, towns and gathering hubs in our RPG games, walking around, doing their own thing, talking, are also entites controlled by AI.
 
 # considerar si afegir mes o treure i afegir a RPG
 
