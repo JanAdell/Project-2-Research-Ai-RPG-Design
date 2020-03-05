@@ -81,13 +81,15 @@ Enemy AI or enemy NPCs are probably were we will find the most freedom when it c
 
 First and foremost, designing and balancing en enemy in an RPG is subjective, since there can be many factors that define said balancing process. When designing any kind of enemy in general, several key points can be made to use as guidelines during the process.
 
-* **The mood**:
+* **The mood**: The mood refers to the feeling we want to give off by certain behaviours by the AI. Normally in accordance to the general mood of the game. A good example of implementations based in mood can be found in the Souls franchise, where enemies, as soon as they notice the player, start the slow burn pursuit towards them.
 
-* **The difficulty**:
+* **The difficulty**: Difficulty refers to how, through stat tweaks and behaviour design, we can make an enemy more or less hard to deal from the player's perspective. A pretty good example of this implementation can be found in **Monster Hunter: World - Iceborne**, where a same monster in different difficulty categories (Low Rank, High Rank and Master Rank) has substancial fluctuations in both damage output, effective health and behaviour patterns (being easily angered as rank gets higher). This also feeds into the proposition of the AI growing as the player does, since the player unlocks higher play ranks as he moves forward through the story.
 
-* **The behaviours**: 
+* **The behaviours**: We refer to behaviour when talking about how the AI reacts. Inicial raction time, as well as actions taken in response to external changes, are actions defined in an NPCs behaviour, and a core part of the concept we know as AI. A good example of behaviour which is easy to notice takes place in the **Pokémon** franchise, where enemies will use healing items or abilities as they detect their Pokémon loosing health.
 
-* **The purpose**:
+* **The purpose**: We refer to purpose in AI the same way we would refer to any other game feature. We ask ourselves why do we need it, and what objective do us, as the developer, wish to accomplish with it, as well as what results we want to get from the player encountering it.
+
+A clear example of purpose within an NPCs can be found in Claptrap, from the **Borderland** series. From the moment he's introduced in the tutorial of the first game, we can feel what the experience will be about. Over the top, roudy, sensless action. 
 
 ## Allied AI
 
@@ -129,17 +131,15 @@ Now that we've clearly defined all the pillars, our main focus is, how is -and h
 
 * **Power and difficulty**
 
-* **Delay and patterns**
-
-* **Reaction time**
-
 ## Turn based RPGs: CRPGs, SRPGs and JRPGs
 
 In turn based RPG games we have mainly neutral NPCs or enemy ones. 
 
-## ARPG
+## Real Time RPGs: ARPGs, Looter-Shooters, etc.
 
+* **Delay and patterns**
 
+* **Reaction time**
 
 ## What we want from the AI: Designing our goals
 
