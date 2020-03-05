@@ -1,6 +1,10 @@
 # Project 2 Research: AI RPG Design
 
-I am [Jan Adell Mill](https://www.linkedin.com/in/jan-adell-41a5341a3/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
+I am [Jan Adell Mill](https://www.linkedin.com/in/jan-adell-41a5341a3/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
+
+In this research document I'll be taking a dive into the design of AI in RPG games (as well as some general analysis) in order to define the guidelines in which we, as developers, want to implement the AI in our game so as to make the most use of it.
+
+This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
 # Introduction
 
@@ -25,9 +29,21 @@ Not only that, but since RPGs have a vast amount of subgenres, and within them p
 
 ### **Parlar de com volem, en general, tractar el disseny d'una IA per tal de fer l'experiència com volem
 
+AI Design is used, in general, to try and boost the immersive capabilities of a game in order to bring the player to feel or live the narrative and universe in a more geniune manner. This is attempted to do by making responsive AI which brings life to the game, and gives it a more organic feeling. NPCs in cities talking and reacting as the player passes by, enemies with multiple patterns or unpredicability and companions which support the player through the game are all ways in which AI can help accomplish this previous mentioned organic feeling.
+
+
+
 ## Different kinds of AI
 
 AI in videogames comes in many different forms. While it can certainly be programmed as to act purely as human-like as possible, AI is a tool for developers to make the player and the world interact in a more immersive manner, making it versatile when it comes to possible paths to take when implementing it. 
+
+* **Non-Adaptative AI**
+
+* **Adaptative AI**
+
+* **Traits**
+
+### Concerns within AI Designing
 
 ### **Revisar Parlar d'adaptativa i no adaptativa
 ### **traits (personality), bugs, tasks (npc does X thing at X time in the hub)
@@ -52,15 +68,17 @@ Allied AI
 
 # AI as a Game Feature
 
-### **
+
 
 # AI in RPG Games
 
-## CRPG
+Now that we've clearly defined all the pillars, our point of convergence is, how is -and should be- AI designed when handling an RPG game?
+
+
+
+## Turn based RPGs: CRPGs, SRPGs and JRPGs
 
 ## ARPG
-
-## JRPG
 
 ## What we want from the AI: Designing our goals
 
@@ -86,4 +104,4 @@ Allied AI
 
 > [GDC: Tales from the Trenches: AI Disaster Stories](https://www.youtube.com/watch?v=__5whYgSTV0)
 
-> [GDC: ]()
+> [GDC: AI Wish List: What Do Designers Want out of AI?](https://www.youtube.com/watch?v=fSjlHvdq7SM)
