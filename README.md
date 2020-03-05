@@ -9,11 +9,17 @@ This content is generated for the second year’s subject Project 2, under super
 # Summary
 
 [Introduction](Introduction)
+
 [RPG Games](RPG Games)
+
 [AI Design](AI Design)
+
 [AI as a Game Fature](AI as a Game Fature)
+
 [AI and the Player](AI and the Player)
+
 [AI in RPG Games](AI in RPG Games)
+
 [Thoughts and Concluding Statement](Thoughts and Concluding Statement)
 
 # Introduction
