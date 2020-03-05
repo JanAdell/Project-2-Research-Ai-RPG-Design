@@ -40,7 +40,8 @@ AI in RPGs is an important factor due to one main reason (which doesn't always a
 
 Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. 
 
-**imatge octopath**////////////////////
+![Octopath Traveler Combat](https://raw.githubusercontent.com/JanAdell/Project-2-Research-Ai-RPG-Design/master/Research%20References/Website/octopathbattle.gif)
+> Octopath Traveler
 
 <a name="aides"></a>
 # AI Design
@@ -89,13 +90,23 @@ First and foremost, designing and balancing en enemy in an RPG is subjective, si
 
 * **The mood**: The mood refers to the feeling we want to give off by certain behaviours by the AI. Normally in accordance to the general mood of the game. A good example of implementations based in mood can be found in the **Souls** franchise, where enemies, as soon as they notice the player, start the slow burn pursuit towards them.
 
+![](https://raw.githubusercontent.com/JanAdell/Project-2-Research-Ai-RPG-Design/master/Research%20References/Website/PowerlessLeanAlpaca-size_restricted.gif)
+> Dark Souls
+
 * **The difficulty**: Difficulty refers to how, through stat tweaks and behaviour design, we can make an enemy more or less hard to deal from the player's perspective. A pretty good example of this implementation can be found in **Monster Hunter: World - Iceborne**, where a same monster in different difficulty categories (Low Rank, High Rank and Master Rank) has substancial fluctuations in both damage output, effective health and behaviour patterns (being easily angered as rank gets higher). This also feeds into the proposition of the AI growing as the player does, since the player unlocks higher play ranks as he moves forward through the story.
 
 * **The behaviours**: We refer to behaviour when talking about how the AI reacts. Inicial raction time, as well as actions taken in response to external changes, are actions defined in an NPCs behaviour, and a core part of the concept we know as AI. A good example of behaviour which is easy to notice takes place in the **Pokémon** franchise, where enemies will use healing items or abilities as they detect their Pokémon loosing health.
 
+![](https://raw.githubusercontent.com/JanAdell/Project-2-Research-Ai-RPG-Design/master/Research%20References/Website/giphy.gif)
+> Pokémon Red
+
 * **The purpose**: We refer to purpose in AI the same way we would refer to any other game feature. We ask ourselves why do we need it, and what objective do us, as the developer, wish to accomplish with it, as well as what results we want to get from the player encountering it.
 
-A clear example of purpose within an NPCs can be found in Claptrap, from the **Borderland** series. From the moment he's introduced in the tutorial of the first game, we can feel what the experience will be about. Over the top, roudy, sensless action. 
+A clear example of purpose within an NPCs can be found in Claptrap, from the **Borderland** series. From the moment he's introduced in the tutorial of the first game, we can feel what the experience will be about. Over the top, roudy, sensless action. His mannerism, his movement, his way to speak, and this belief is further complimented when advancing throughout the game.
+
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/giphy%20(1).gif?raw=true)
+> Claptrap from the Borderlands franchise
+
 
 ## Allied AI
 
@@ -115,14 +126,12 @@ Claptrap -mentioned before- or Atreus from **God of War 4** could be good exampl
 
 **Skyrim** NPCs which accompany the player in quests or allied units the player has recruited in the **Mass Effect** franchise could fall into this category.
 
-* **A good companion**: If the NPC is narratively important enough, and is well designed so as to be likeable by the player, it is possible to reach a point where players might feel emotionally attached to it. This can be an important factor, since attachment directly correlates to immersion -and importance given by the player- which is one of the main objectives of AI in general. 
+* **A cherished friend**: If the NPC is narratively important enough, and is well designed so as to be likeable by the player, it is possible to reach a point where players might feel emotionally attached to it. This can be an important factor, since attachment directly correlates to immersion -and importance given by the player- which is one of the main objectives of AI in general. 
 
-A good example of such an NPC is Princess Zelda from the **Zelda** franchise. 
+A good example of such an NPC is Princess Zelda from the **Legend of Zelda** franchise. 
 
-
-# considerar si afegir mes o treure i afegir a RPG
-
-# millorar
+![](https://raw.githubusercontent.com/JanAdell/Project-2-Research-Ai-RPG-Design/master/Research%20References/Website/da79770ce00594feff473b7f2cf31936.gif)
+> Zelda and Link, The Legend of Zelda: Breath of the Wild
 
 <a name="aiplay"></a>
 # AI and the player
@@ -144,6 +153,9 @@ Now that we've clearly defined all the pillars, our main focus is, how is -and h
 
 Neutral NPCs are mainly those who roam the cities and hubs and those the player interacts with in order to further the sotry. These NPCs' AI is mainly designed to follow certain patters inside their area of action in order to create environments for the player to get immersed with.
 
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/WalkingTown_FullScreen.gif?raw=true)
+> Moonlighter
+
 ## Turn based RPGs: CRPGs, SRPGs and JRPGs
 
 In turn based RPG games we usually have no allied units, since most of the allied characters are usually controled by the player themselves. This style of gameplay also makes for a relatively linear enemy AI behaviour process, making them easier to design compared to games where real time actions are involved. Typically, this kind of AI only changes when regarding different entities, but remains untouched for the same kind of enemy throughout the game, and is mainly balanced through stat changes and possibility to miss values. 
@@ -161,7 +173,8 @@ RPG games which use real time elements usually require of much heavier AI work c
 
 Delay refers to how long it takes for an AI to attack the player. This is an important point in shooter-based RPGs, because the NPCs can reach the player easily, so we need to delay their attacks in order to offer the player the chance to shoot first, while the AI is catching up to them with their attack. This is something that can be seen clearly in **Rainbow Six Siege**, which is not an RPG game but offers a training mode against the AI.
 
-**imatge thunt r6**////////
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/6Ly36g.gif?raw=true)
+> Rainbow Six Siege. Note the shots barely missing.
 
 It is important to note that in Action RPGs delay is also applied but in a different manner, usually having enemy NPCs cast static spells or do long animations, so the player can react properly to them, or showing the player a trace of where the attack will be. 
 
