@@ -14,8 +14,6 @@ This content is generated for the second year’s subject Project 2, under super
 
 [AI Design](#aides)
 
-[AI as a Game Fature](#aifeat)
-
 [AI and the Player](#aiplay)
 
 [AI in RPG Games](#airpg)
@@ -122,17 +120,12 @@ All the NPCs we see in cities, towns and gathering hubs in our RPG games, walkin
 
 We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life, and then entrusting programmers and animators to put together an entity which moves and feels like something which could be real, or could, at least, exist in a world similar to that we're experiencing in the game.
 
-<a name="aifeat"></a>
-# AI as a Game Feature
-
-AI must be treated, first and foremost, as a feature devised to connect the player and the game world in a more immersive manner. Secondly, we must consider 
-
 <a name="airpg"></a>
 # AI in RPG Games
 
 Now that we've clearly defined all the pillars, our main focus is, how is -and how should be- AI designed when handling an RPG game?
 
-* **Progression**
+* **Progression**: We need our AI to grow as the player does. By that we're not speaking of heightening its stats, but rather changing behavioral traits in order to become more and more of a challenge for the player.
 
 * **Power and difficulty**
 
@@ -148,11 +141,16 @@ In turn based RPG games we have mainly neutral NPCs or enemy ones.
 
 ## What we want from the AI: Designing our goals
 
-### **consideracions a fer quan dissenyem algoritmes de behaviour de la IA
+
 
 <a name="resum"></a>
 # Thoughts and Concluding Statement
 
+AI is still unexplored land when it comes to being procedural. Be it centered around RPGs or not, AI nowadays only fills a stand in role for entities in a world, and even though we have the technology to create AI which caters to the player, we don't know yet how to manage it's limits properly so as to create a process which is optimal.
+
+However, AI as we've known it until now is, in it's own way, something praiseworthy, because just like in a movie we might like characters because of their personalities or certain traits, in videogames we've accomplished during the years the merging of narrative, design, art and code in order to create characters the players could get attached to, in order to give the player enemies which felt real to face, in order to create boiling environments overflowing with life.
+
+So as long as we keep pushing games with RPG elements, creating games with heavy narratives or games with high player involvement, we ourselves will have to keep striving to create more realistic and believable AI, until the day the AI itself can learn how to become it. 
 
 <a name="sources"></a>
 # Sources
