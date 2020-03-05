@@ -16,6 +16,9 @@ Role Playing Games (RPG in short) are a genre of videogame based on having the p
 
 RPGs have been defining the videogame industry from it's very core since the very beggining, serving as examples for many other genres on how to apply certain features and mechanics, mainly progression and character growth. It's important to keep that in mind as we speak of AI, since, as the player grows, we need the environment around him to do as well. 
 
+AI in RPGs is an important factor due to one main reason (which doesn' always apply): The amount of NPCs we find in them. From regular NPCs we find at towns or taberns, to allies or enemies in battle, all of their actions are controlled by AI created by the developers.
+
+Not only that, but since RPGs have a vast amount of subgenres, and within them playability is usually different in a fundamental level, we have to design our AI so it fits within the game. **MILLORAR**
 ### **Millorar parlar de generes i de com afecta cadascun al que mirem
 
 # AI Design
@@ -75,7 +78,7 @@ Allied AI
 
 > [Artificial Intelligence in Videogames](https://towardsdatascience.com/artificial-intelligence-in-video-games-3e2566d59c22)
 
-> [Rapid and Reliable Adaptation ofVideo Game AI](https://www.researchgate.net/publication/224570972_Rapid_and_Reliable_Adaptation_of_Video_Game_AI)
+> [Rapid and Reliable Adaptation of Video Game AI](https://www.researchgate.net/publication/224570972_Rapid_and_Reliable_Adaptation_of_Video_Game_AI)
 
 ## Videos
 
