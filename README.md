@@ -8,9 +8,9 @@ This content is generated for the second year’s subject Project 2, under super
 
 # Introduction
 
-AI is, in general, an element used in videogames in order for game elements to accomplish functions in a more human-like manner. NPC's actions, being allied, enemy or neutral, are all controlled by AI. 
+AI is, in general, an element used in videogames in order for game entities to accomplish functions in a more human-like manner. NPC's actions, being allied, enemy or neutral, are all controlled by AI. 
 
-However, as we will see in this document, AI is an element not only used to give a sense of realism to entities and characters in our videogames, but a game feature which, when used properly, can be useful to enhance the experience in certain manners game developers see fit.
+However, as we will see in this document, AI is an element not only used to give a sense of realism to entities and characters in our RPG games, but a game feature which, when used properly, can be useful to enhance the experience in certain manners game developers see fit.
 
 ### **Millorar
 
@@ -27,11 +27,9 @@ Not only that, but since RPGs have a vast amount of subgenres, and within them p
 
 # AI Design
 
-### **Parlar de com volem, en general, tractar el disseny d'una IA per tal de fer l'experiència com volem
-
 AI Design is used, in general, to try and boost the immersive capabilities of a game in order to bring the player to feel or live the narrative and universe in a more geniune manner. This is attempted to do by making responsive AI which brings life to the game, and gives it a more organic feeling. NPCs in cities talking and reacting as the player passes by, enemies with multiple patterns or unpredicability and companions which support the player through the game are all ways in which AI can help accomplish this previous mentioned organic feeling.
 
-
+AI Design is partically important in RPG games, since as they're usually based on progression and narrative, we need the AI to grow in parallel with the player.
 
 ## Different kinds of AI
 
@@ -39,11 +37,25 @@ AI in videogames comes in many different forms. While it can certainly be progra
 
 * **Non-Adaptative AI**
 
-* **Adaptative AI**
+AI which has a defined set of rules, being more or less complex, by which it acts and reacts to whatever is happening. 
+
+This kind of AI is probably the most used nowadays, since it allows the designers to control NPCs actions within expected parameters, thus avoiding possible problems by being able to forcibly define how the entity acts. 
 
 * **Traits**
 
+A concept mainly popularized by The Sims, this is based on having various Non-Adaptative patterns of behaviour in an entity (sometimes placed randomly) in order to create a form of Non-Adaptative AI which feels more random and natural, also allowing for the creation of characters with more defined personalities. 
+
+* **Adaptative AI**
+
+A type of AI which learns through data in order to optimize and adapt itself. Nowadays it's mainly used in MMORPG games in order to teach NPCs certain player-related actions which are hard to define by the developers inside an AI system. 
+
+In the future, this kind of AI might be used to create more personal experiences catered to each individual player, allowing the AI to recognize patterns within a players playstyle and then interacting with him in a suitable manner. 
+
+Even though we have the technology to allow the AI to learn, this method will, most likely, still take a few years to become something we see in our RPG games, since developers have few tools to manage all the possible interactions created from learning, as well as few ways to regulate such way of learning. 
+
 ### Concerns within AI Designing
+
+Our main concern when designing AI is that the AI we designed is not correctly fullfilling it's role. For example, if we have an enemy NPC which is designed to be fairly easy, but a majority of players are deeming it a hard, our AI is not working as intended. There are also problems related to the code defining the AI.
 
 ### **Revisar Parlar d'adaptativa i no adaptativa
 ### **traits (personality), bugs, tasks (npc does X thing at X time in the hub)
