@@ -99,11 +99,19 @@ Allied AI is fundamentally designed to be underpowered, so as not to overshadow 
 
 Allied AI can be useful in many aspects:
 
-* **Company in solace**:
+* **Company in solace**: AI and allied NPCs can be a big help when dealing with solo experiences. Either because some players prefer some kind of company through their playthroughs, and that company given by a single NPC can be conforting to them, or because they may not feel confident enough to go into the experience alone. 
 
-* **Auxiliar teammate**:
+This factor can also backfire, creating controversial entities which end up being loved and hated at the same time with the community, but this only happens in rare cases, in which, narratively or personalyty-wise, the NPC might feel urksome to the players. 
 
-* **A good companion**:
+Claptrap -mentioned before- or Atreus from **God of War 4** could be good examples.
+
+* **Auxiliar teammate**: As stated in the previous points, players might not feel confortable facing a challenge alone, so giving them extra bodies, even though those of allied NPCs, can be a good way of distributing the pressure.
+
+**Skyrim** NPCs which accompany the player in quests or allied units the player has recruited in the **Mass Effect** franchise could fall into this category.
+
+* **A good companion**: If the NPC is narratively important enough, and is well designed so as to be likeable by the player, it is possible to reach a point where players might feel emotionally attached to it. This can be an important factor, since attachment directly correlates to immersion -and importance given by the player- which is one of the main objectives of AI in general. 
+
+A good example of such an NPc is Princess Zelda from the **Zelda** franchise. 
 
 ## AI which doesn't partake in the action
 
@@ -112,10 +120,7 @@ All the NPCs we see in cities, towns and gathering hubs in our RPG games, walkin
 <a name="aiplay"></a>
 # AI and the player
 
-We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life.
-
-
-### **interaccio que busca el dev entre el jugador i la IA, i com vol que aquesta sigui tractada
+We, as designers and developers, want the player to end up seeing NPCs (as much as possible) as relatable, personality filled entities. This is usually a task accomplished by the joint effort of writers and designers, so as to bring a believable character to life, and then entrusting programmers and animators to put together an entity which moves and feels like something which could be real, or could, at least, exist in a world similar to that we're experiencing in the game.
 
 <a name="aifeat"></a>
 # AI as a Game Feature
