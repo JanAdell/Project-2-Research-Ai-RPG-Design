@@ -81,6 +81,6 @@ Allied AI
 
 > [GDC: The Simplest AI Trick in the Book](https://www.youtube.com/watch?v=iVBCBcEANBc)
 
-> [GDC: ]()
+> [GDC: Tales from the Trenches: AI Disaster Stories](https://www.youtube.com/watch?v=__5whYgSTV0)
 
-[GDC: ]
+> [GDC: ]()
