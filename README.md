@@ -50,7 +50,8 @@ AI Design is used, in general, to try and boost the immersive capabilities of a 
 
 AI Design is partically important in RPG games, since as they're usually based on progression and narrative, we need the AI to grow in parallel to the player. 
 
-**imatge witcher??**//////////////////
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/GrotesqueKaleidoscopicIndianspinyloach-size_restricted.gif?raw=true)
+> Monster Hunter: World - Iceborne. A palico reacting to his hunter being staggered by helping him.
 
 ## Different kinds of AI
 
@@ -66,7 +67,8 @@ This kind of AI is probably the most used nowadays, since it allows the designer
 
 A concept mainly popularized by The Sims, this is based on having various Non-Adaptative patterns of behaviour in an entity (sometimes placed randomly) in order to create a form of Non-Adaptative AI which feels more random and natural, also allowing for the creation of characters with more defined personalities. 
 
-**sims medieval**///////////////////////////
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/sims.gif?raw=true)
+> Sims Medieval, a game which took the Sims 3 system and made it an RPG
 
 * **Adaptative AI**
 
@@ -76,7 +78,8 @@ In the future, this kind of AI might be used to create more personal experiences
 
 Even though we have the technology to allow the AI to learn, this method will, most likely, still take a few years to become something we see in our RPG games, since developers have few tools to manage all the possible interactions created from learning, as well as few ways to regulate such way of learning. 
 
-**warframe wallrunning**////
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/wf.gif?raw=true)
+> Warframe taught AI how to wallrun from player collected data (figure shows regular gameplay)
 
 ### Concerns within AI Designing
 
@@ -94,6 +97,8 @@ First and foremost, designing and balancing en enemy in an RPG is subjective, si
 > Dark Souls
 
 * **The difficulty**: Difficulty refers to how, through stat tweaks and behaviour design, we can make an enemy more or less hard to deal from the player's perspective. A pretty good example of this implementation can be found in **Monster Hunter: World - Iceborne**, where a same monster in different difficulty categories (Low Rank, High Rank and Master Rank) has substancial fluctuations in both damage output, effective health and behaviour patterns (being easily angered as rank gets higher). This also feeds into the proposition of the AI growing as the player does, since the player unlocks higher play ranks as he moves forward through the story.
+
+Even though making an AI difficult can feel rewarding to some players, we should always remain in a terrain which involves no frustration for whoever is facing it.
 
 * **The behaviours**: We refer to behaviour when talking about how the AI reacts. Inicial raction time, as well as actions taken in response to external changes, are actions defined in an NPCs behaviour, and a core part of the concept we know as AI. A good example of behaviour which is easy to notice takes place in the **Pokémon** franchise, where enemies will use healing items or abilities as they detect their Pokémon loosing health.
 
@@ -122,6 +127,9 @@ This factor can also backfire, creating controversial entities which end up bein
 
 Claptrap -mentioned before- or Atreus from **God of War 4** could be good examples.
 
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/tenor.gif?raw=true)
+> Kratos (the character the player plays as) and Atreus (his son) from God of War 4
+
 * **Auxiliar teammate**: As stated in the previous points, players might not feel confortable facing a challenge alone, so giving them extra bodies, even though those of allied NPCs, can be a good way of distributing the pressure.
 
 **Skyrim** NPCs which accompany the player in quests or allied units the player has recruited in the **Mass Effect** franchise could fall into this category.
@@ -147,7 +155,6 @@ Now that we've clearly defined all the pillars, our main focus is, how is -and h
 
 * **Power and difficulty**: Having in mind the player's progress, and the design estimates at which the enemy NPCs should be, we have to be careful not to arrive at a result we don't want. Of course, we might want an overwhelming enemy which on top of hightened stats has fast reacting behaviour and unpredictable movement. That's usually not the case however, and we have to take into close consideration how we balance each of these aspects.
 
-**gif de bombards al warframe?**//////////////
 
 ## Neutral NPCs
 
@@ -165,11 +172,14 @@ In turn based RPG games we usually have no allied units, since most of the allie
 
 ## Real Time RPGs: ARPGs, Looter-Shooters, etc.
 
-RPG games which use real time elements usually require of much heavier AI work compared to turn based ones, since the AI has to be in action and reaction 
+RPG games which use real time elements usually require of much heavier AI work compared to turn based ones, since the AI has to be considering how to act or react to constant real time events.
 
-* **Reaction time**: Reaction time refers to how long do we make our AI take before it "realises" it has seen the player. It is important to note than
+* **Reaction time**: Reaction time refers to how long do we make our AI take before it "realises" it has seen the player. It is important to note that the longer we make this time, the more margin we will give the player to act on this window. A reaction time which is too short might become frustrating, while one which is too long might become staggering.
 
 * **Delay and patterns**: Patterns are a core of the gameplay when it comes to AI for melee combat RPG games. This allows for a variety of attacks -which the players usually learn eventually- which can be delievered in different fashion, depending also if certain conditions are met. 
+
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/ZigzagValuableAsiansmallclawedotter-size_restricted.gif?raw=true)
+> Shara Ishvalda from Monster Hunter: World - Iceborne. Notice the reaction time to switch focus from one target to another, and the delay before the attack goes off.
 
 Delay refers to how long it takes for an AI to attack the player. This is an important point in shooter-based RPGs, because the NPCs can reach the player easily, so we need to delay their attacks in order to offer the player the chance to shoot first, while the AI is catching up to them with their attack. This is something that can be seen clearly in **Rainbow Six Siege**, which is not an RPG game but offers a training mode against the AI.
 
@@ -186,6 +196,9 @@ AI is, at the end of the day, one more feature our game might or might not use. 
 If we want an overwhelming experience, challenging the player at every turn, we can create AI that together with balancing, feels challenging and hard. Or the opposite, were we want to create a mild and fun experience, so we put our efforts into enemies which are fun to fight. If we want immersion we can create a highly narrative experience, and with it elaborate NPCs which the player can get attached to. We can also use AI to simply add some flavour to our game, adding life to the streets of our world.
 
 In the end, AI is not only about giving human-like capabilities to in-game entities, but to bring an idea to life, by bringing to life the characters in our games.
+
+![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/doggo_min.gif?raw=true)
+> AI can be used to enhance even minimal elements.
 
 <a name="resum"></a>
 # Thoughts and Concluding Statement
