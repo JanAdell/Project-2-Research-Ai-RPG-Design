@@ -117,7 +117,7 @@ Claptrap -mentioned before- or Atreus from **God of War 4** could be good exampl
 
 * **A good companion**: If the NPC is narratively important enough, and is well designed so as to be likeable by the player, it is possible to reach a point where players might feel emotionally attached to it. This can be an important factor, since attachment directly correlates to immersion -and importance given by the player- which is one of the main objectives of AI in general. 
 
-A good example of such an NPc is Princess Zelda from the **Zelda** franchise. 
+A good example of such an NPC is Princess Zelda from the **Zelda** franchise. 
 
 ## AI which doesn't partake in the action
 
