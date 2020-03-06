@@ -57,7 +57,7 @@ AI Design is partically important in RPG games, since as they're usually based o
 
 AI in videogames comes in many different forms. While it can certainly be programmed as to act purely as human-like as possible, AI is a tool for developers to make the player and the world interact in a more immersive manner, making it versatile when it comes to possible paths to take when implementing it. 
 
-* **Non-Adaptative AI**
+* **Non-Adaptive AI**
 
 AI which has a defined set of rules, being more or less complex, by which it acts and reacts to whatever is happening. 
 
@@ -65,12 +65,12 @@ This kind of AI is probably the most used nowadays, since it allows the designer
 
 * **Traits**
 
-A concept mainly popularized by The Sims, this is based on having various Non-Adaptative patterns of behaviour in an entity (sometimes placed randomly) in order to create a form of Non-Adaptative AI which feels more random and natural, also allowing for the creation of characters with more defined personalities. 
+A concept mainly popularized by The Sims, this is based on having various Non-Adaptive patterns of behaviour in an entity (sometimes placed randomly) in order to create a form of Non-Adaptive AI which feels more random and natural, also allowing for the creation of characters with more defined personalities. 
 
 ![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/sims.gif?raw=true)
 > Sims Medieval, a game which took the Sims 3 system and made it an RPG
 
-* **Adaptative AI**
+* **Adaptive AI**
 
 A type of AI which learns through data in order to optimize and adapt itself. Nowadays it's mainly used in MMORPG games in order to teach NPCs certain player-related actions which are hard to define by the developers inside an AI system. 
 
