@@ -1,6 +1,6 @@
 # Project 2 Research: AI RPG Design
 
-I am [Jan Adell Mill](https://www.linkedin.com/in/jan-adell-41a5341a3/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
+I am [Jan Adell Mill](https://www.linkedin.com/in/jan-adell-mill-41a5341a3/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
 
 In this research document I'll be taking a dive into the design of AI in RPG games (as well as some general analysis) in order to define the guidelines in which we, as developers, want to implement the AI in our game so as to make the most use of it.
 
@@ -34,7 +34,7 @@ However, as we will see in this document, AI is an element not only used to give
 
 Role Playing Games (RPG in short) are a genre of videogame based on having the player participate in a story, in which they progress, grow and become more powerful as time goes on and they advance further into the narrative. 
 
-RPGs have been defining the videogame industry from it's very core since the very beggining, serving as examples for many other genres on how to apply certain features and mechanics, mainly progression and character growth. It's important to keep that in mind as we speak of AI, since, as the player grows, we need the environment around him to do as well. 
+RPGs have been defining the videogame industry from it's very core since the very beggining, serving as examples for many other genres on how to apply certain features and mechanics, mainly progression and character growth. It's important to keep that in mind as we speak of AI, since, as the player grows, we need the environment around them to do as well. 
 
 AI in RPGs is an important factor due to one main reason (which doesn't always apply): The amount of NPCs we find in them. From regular NPCs we find at towns or taberns, to allies or enemies in battle, all of their actions are controlled by AI created by the developers.
 
@@ -51,7 +51,7 @@ AI Design is used, in general, to try and boost the immersive capabilities of a 
 AI Design is partically important in RPG games, since as they're usually based on progression and narrative, we need the AI to grow in parallel to the player. 
 
 ![](https://github.com/JanAdell/Project-2-Research-Ai-RPG-Design/blob/master/Research%20References/Website/GrotesqueKaleidoscopicIndianspinyloach-size_restricted.gif?raw=true)
-> Monster Hunter: World - Iceborne. A palico reacting to his hunter being staggered by helping him.
+> Monster Hunter: World - Iceborne. A palico reacting to their hunter being staggered by helping them.
 
 ## Different kinds of AI
 
@@ -74,7 +74,7 @@ A concept mainly popularized by The Sims, this is based on having various Non-Ad
 
 A type of AI which learns through data in order to optimize and adapt itself. Nowadays it's mainly used in MMORPG games in order to teach NPCs certain player-related actions which are hard to define by the developers inside an AI system. 
 
-In the future, this kind of AI might be used to create more personal experiences catered to each individual player, allowing the AI to recognize patterns within a players playstyle and then interacting with him in a suitable manner. 
+In the future, this kind of AI might be used to create more personal experiences catered to each individual player, allowing the AI to recognize patterns within a players playstyle and then interacting with them in a suitable manner. 
 
 Even though we have the technology to allow the AI to learn, this method will, most likely, still take a few years to become something we see in our RPG games, since developers have few tools to manage all the possible interactions created from learning, as well as few ways to regulate such way of learning. 
 
